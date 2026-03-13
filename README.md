@@ -5,6 +5,9 @@ This project presents an interactive dashboard that analyzes healthcare access a
 
 The objective of this project is to identify disparities in healthcare infrastructure and affordability at the ward level, helping policymakers, researchers, and urban planners better understand gaps in urban healthcare systems.
 
+### Link to view interactive dashboard on Tableau Public
+https://public.tableau.com/views/Dashboard_Health/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 ---
 
 ## Project Objectives
