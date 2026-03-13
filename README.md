@@ -102,8 +102,3 @@ This allows easy comparison between wards.
 - Expansion to other cities
 - Predictive analytics for healthcare demand
 - Integration with public health policy datasets
-
----
-
-## Author
-This project was developed as part of a data visualization and urban healthcare analysis initiative focused on understanding healthcare accessibility and affordability in Indian cities.
